@@ -1,4 +1,4 @@
-# Anular-CRUD-Operations
+# Angular-CRUD-Operations
 Commands
 
 ===Backend===

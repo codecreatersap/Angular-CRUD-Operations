@@ -1,10 +1,10 @@
 # Angular-CRUD-Operations
 
-Prerequisites
-MySQL
-Express JS
-Angular
-Node JS
+===Prerequisites===
+1. MySQL
+2. Express JS
+3. Angular
+4. Node JS
 
 Commands
 

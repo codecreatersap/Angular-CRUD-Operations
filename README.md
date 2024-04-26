@@ -1,4 +1,11 @@
 # Angular-CRUD-Operations
+
+Prerequisites
+MySQL
+Express JS
+Angular
+Node JS
+
 Commands
 
 ===Backend===
